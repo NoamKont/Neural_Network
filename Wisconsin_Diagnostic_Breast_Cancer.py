@@ -1,6 +1,6 @@
 import numpy as np
 import pandas as pd
-from neural_networks import NeuralNetwork  # Assuming your NeuralNetwork class is defined in NeuralNetwork.py
+from Neural_Network import NeuralNetwork  # Assuming your NeuralNetwork class is defined in NeuralNetwork.py
 
 
 if __name__ == "__main__":

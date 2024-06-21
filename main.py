@@ -1,6 +1,6 @@
 import numpy as np
 import pandas as pd
-from neural_networks import NeuralNetwork
+from Neural_Network import NeuralNetwork
 
 if __name__ == "__main__":
     with open("..\MNIST-train.csv") as file:
